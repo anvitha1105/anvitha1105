@@ -1,4 +1,4 @@
-<h1 style="font-size: 4em;">👋Hey, You've reached Anvitha's Github</h1> 
+<h1 style="font-size: 6em;">👋Hey, You've reached Anvitha's Github</h1> 
 Computer Science engineer building solutions across domains - from cloud deployments to AI prototypes to robust backend systems. Passionate about leveraging the right tool for each challenge
 
 ## Education  
