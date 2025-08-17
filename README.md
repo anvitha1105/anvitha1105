@@ -1,16 +1,40 @@
-## Hi there 👋
+## You've reached Anvitha's GitHub  
+Computer Science engineer building solutions across domains - from cloud deployments to AI prototypes to robust backend systems. Passionate about leveraging the right tool for each challenge
 
-<!--
-**anvitha1105/anvitha1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education  
+Bachelor of Technology in Computer Science  
+VIT Bhopal University | 2022–2026 |  
 
-Here are some ideas to get you started:
+## Technical Skills  
+Programming: Java, Python, C++, JavaScript  
+Web Technologies: HTML/CSS, Flask, React Basics  
+Databases: SQL, MongoDB Basics  
+DevOps & Tools: Git, Docker, Jenkins, Postman  
+Concepts: Data Structures, Algorithms, OOP, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects  
+Autonomous Workflow Builder (Individual Project)  
+- Designed and implemented a Python-based workflow automation system  
+- Reduced manual processing time by 40% through task automation  
+
+AI Assistance Device for Visually Challenged (Team Lead)  
+- Developed real-time object detection using YOLOv8 and OpenCV  
+- Integrated text-to-speech conversion for accessibility  
+
+Blood Bank Management System  
+- Created full-stack solution with user authentication modules  
+- Implemented inventory tracking and donor management  
+
+## Achievements  
+Earned 10+ certifications including Google Cloud, Microsoft, and IBM DevOps  
+Served as Core Member at Edu4U Club, VIT Bhopal  
+Recognized as public speaker at university events  
+
+## Fun Facts
+I love open-mic performances and teaching tech! 
+
+## Contact  
+Phone: +91 9791561128
+Email: anvithanaguru@gmail.com  
+LinkedIn: linkedin.com/in/anvitha-n-748288247  
+
