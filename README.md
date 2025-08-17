@@ -26,7 +26,7 @@ Blood Bank Management System
 - Implemented inventory tracking and donor management  
 
 ## Achievements  
-Earned 10+ certifications including Google Cloud, Microsoft, and IBM DevOps  
+Earned 10+ certifications including Google Cloud, Microsoft, IBM DevOps and Oracle
 Served as Core Member at Edu4U Club, VIT Bhopal  
 Recognized as public speaker at university events  
 
