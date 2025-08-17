@@ -1,9 +1,9 @@
-<h1 style="font-size: 10em;">👋Hey, You've reached Anvitha's Github</h1> 
+<h1 style="font-size: 12em;">👋Hey, You've reached Anvitha's Github</h1> 
 Computer Science engineer building solutions across domains - from cloud deployments to AI prototypes to robust backend systems. Passionate about leveraging the right tool for each challenge
 
 ## Education  
 Bachelor of Technology in Computer Science  
-VIT Bhopal University | 2022–2026 |  
+VIT Bhopal University | 2022–2026 | Cgpa-8.16
 
 ## Technical Skills  
 Programming: Java, Python, C++, JavaScript  
@@ -36,5 +36,5 @@ I love open-mic performances and teaching tech!
 ## Contact  
 Phone: +91 9791561128
 Email: anvithanaguru@gmail.com  
-LinkedIn: linkedin.com/in/anvitha-n-748288247  
+LinkedIn: https://www.linkedin.com/in/anvitha-n-748288247/ 
 
