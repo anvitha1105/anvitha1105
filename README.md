@@ -1,5 +1,6 @@
 <h1 style="font-size: 12em;">👋Hey, You've reached Anvitha's Github</h1> 
-Computer Science engineer building solutions across domains - from cloud deployments to AI prototypes to robust backend systems. Passionate about leveraging the right tool for each challenge
+Computer Science engineer building solutions across domains - from cloud deployments to AI prototypes to robust backend systems. Passionate about leveraging the right tool for each challenge.
+A creative technologist translating complex data into intelligent, predictive, and impactful solutions
 
 ## Education  
 Bachelor of Technology in Computer Science  
