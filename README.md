@@ -38,4 +38,6 @@ I love open-mic performances and teaching tech!
 Phone: +91 9791561128
 Email: anvithanaguru@gmail.com  
 LinkedIn: https://www.linkedin.com/in/anvitha-n-748288247/ 
+Portfolio: https://anvithaportfolio.my.canva.site/anvitha-n
+
 
