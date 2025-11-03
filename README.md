@@ -8,31 +8,13 @@
 </p>
 <br>
 
-<p>
-  <a href="https://www.linkedin.com/in/anvitha-n/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://anvithaportfolio.my.canva.site/anvitha-n" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://drive.google.com/file/d/1YMX4K-Pm3Nc5ssmNweF8JIHSukfKjaMc/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
-  </a>
-  <a href="mailto:anvithanaguru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<h2>🚀 My GitHub Activity</h2>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvitha1105&layout=compact&theme=tokyonight" alt="Anvitha's Top Languages" height="170">
 </p>
 
-<h2>🚀 My GitHub Activity</h2>
-
-<h2>🚀 My GitHub Activity</h2>
-
-<table align="center" width="100%">
-  <tr valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvitha1105&layout=compact&theme=tokyonight" alt="Anvitha's Top Languages">
-    </td>
-  </tr>
-</table>
 <h2>🛠️ Technical Skills</h2>
 <p align="center">
   <strong>Programming:</strong><br>
@@ -119,16 +101,30 @@
 
 <h2>✨ Fun Fact</h2>
 <blockquote>
-  <p>I love open-mic performances and teaching tech!</p>
+  <p>I love open-mic performances and teaching</p>
 </blockquote>
 
 <hr>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&label=Profile%20Visitors&countColor=%239F85FF&style=flat-square" alt="Profile Visitors">
-</p>
 
-<p align="center">
-  <strong>Phone:</strong> +91 9791561128 | <strong>Email:</strong> anvithanaguru@gmail.com
+<h2>📫 Connect with Me</h2>
+<br>
+<p>
+  <a href="https://www.linkedin.com/in/anvitha-n/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://anvithaportfolio.my.canva.site/anvitha-n" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://drive.google.com/file/d/1YMX4K-Pm3Nc5ssmNweF8JIHSukfKjaMc/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+  </a>
+  <a href="mailto:anvithanaguru@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+<br>
+<p>
+  <strong>Phone:</strong> +91 9791561128
 </p>
 
 </div>
