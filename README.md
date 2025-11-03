@@ -23,88 +23,41 @@
   </a>
 </p>
 
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr valign="top">
-    <td width="60%">
-      <br>
-      <p>
-        <strong>A creative technologist translating complex data into intelligent, predictive, and impactful solutions.</strong>
-      </p>
-      <p>
-        I am a Computer Science student with a passion for <strong>Data Science, AI, and Cloud Computing</strong>. I thrive on solving complex problems, building intelligent systems, and transforming raw data into actionable insights.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="Image 1" alt="Coding GIF" width="100%">
-    </td>
-  </tr>
-</table>
+<h2>🚀 My GitHub Activity</h2>
 
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
+<h2>🚀 My GitHub Activity</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_My_GitHub_Stats-9F85FF?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Stats">
-</div>
-<br>
 <table align="center" width="100%">
   <tr valign="top">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=anvitha1105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Anvitha's GitHub Stats">
-    </td>
-    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvitha1105&layout=compact&theme=tokyonight" alt="Anvitha's Top Languages">
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img src="https://streak-stats.demolab.com?user=anvitha1105&theme=tokyonight&border_radius=5&fire=9F85FF&ring=9F85FF&currStreakNum=9F85FF&sideNums=9F85FF&sideLabels=9F85FF&background=1A1B27" alt="Anvitha's GitHub Streak">
-    </td>
-  </tr>
 </table>
+<h2>🛠️ Technical Skills</h2>
+<p align="center">
+  <strong>Programming:</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <br><br>
+  <strong>Web & Databases:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <br><br>
+  <strong>DevOps & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+</p>
 
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
+<h2>📚 My Projects</h2>
+<p>Here are some of the projects I'm most proud of.</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🛠️_Technical_Toolkit-9F85FF?style=for-the-badge&logo=code&logoColor=white" alt="Technical Skills">
-</div>
-<br>
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr valign="top">
-    <td width="60%">
-      <p align="center">
-        <strong>Programming:</strong><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <br><br>
-        <strong>Web & Databases:</strong><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-        <br><br>
-        <strong>DevOps & Tools:</strong><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="Image 2" alt="AI GIF" width="100%">
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📚_My_Projects-9F85FF?style=for-the-badge&logo=package&logoColor=white" alt="My Projects">
-</div>
-<br>
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr valign="top">
     <td width="50%">
@@ -141,16 +94,12 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
+<h2>🎓 Education & Achievements</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓_Education_&_Achievements-9F85FF?style=for-the-badge&logo=mortar-board&logoColor=white" alt="Education & Achievements">
-</div>
-<br>
 <table width="100%" cellspacing="0" cellpadding="10">
   <tr valign="top">
     <td width="50%">
-      <h3>🎓 Education</h3>
+      <h3>Education</h3>
       <p>
         <strong>B.Tech, Computer Science (2022–2026)</strong><br>
         <i>VIT Bhopal University</i><br>
@@ -158,54 +107,24 @@
       </p>
     </td>
     <td width="50%">
-      <h3>🏆 Achievements</h3>
-      <ul style="margin: 0; padding-left: 20px;">
-        <li>Earned <strong>10+ certifications</strong> from Google Cloud, Microsoft, IBM DevOps, and Oracle.</li>
-        <li>Served as Core Member at Edu4U Club, VIT Bhopal.</li>
-        <li>Recognized as a public speaker at university events.</li>
+      <h3>Achievements</h3>
+      <ul>
+        <li>🏆 Earned <strong>10+ certifications</strong> from Google Cloud, Microsoft, IBM DevOps, and Oracle.</li>
+        <li>📣 Served as Core Member at Edu4U Club, VIT Bhopal.</li>
+        <li>🎤 Recognized as a public speaker at university events.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
+<h2>✨ Fun Fact</h2>
+<blockquote>
+  <p>I love open-mic performances and teaching tech!</p>
+</blockquote>
 
-<table width="100%" cellspacing="0" cellpadding="10">
-  <tr valign="top">
-    <td width="50%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/✨_Fun_Fact-9F85FF?style=for-the-badge&logo=sparkles&logoColor=white" alt="Fun Fact">
-      </div>
-      <br>
-      <blockquote>
-        <p align="center">I love open-mic performances and teaching tech!</p>
-      </blockquote>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/💭_Favorite_Quote-9F85FF?style=for-the-badge&logo=quote&logoColor=white" alt="Favorite Quote">
-      </div>
-      <br>
-      <blockquote>
-        <p align="center">"Without data, you're just another person with an opinion."</p>
-        <p align="right"><i>– W. Edwards Deming</i></p>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/i-am-mag-coders/i-am-mag-coders/main/Images/separator.gif" alt="Animated Divider" width="100%">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🐍_Contribution_Snake-9F85FF?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Contributions">
-  <br><br>
-  <img src="https://github-contribution-grid-snake.vercel.app/api?github_user_name=anvitha1105&svg_out_path=dist/github-contribution-grid-snake.svg&grid_color=1A1B27&snake_color=9F85FF&dots_color=9F85FF" alt="Contribution Snake">
-</div>
-
-<br>
-
+<hr>
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanvitha1105&label=Profile%20Visitors&countColor=%239F85FF&style=flat-square" alt="Profile Visitors">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&label=Profile%20Visitors&countColor=%239F85FF&style=flat-square" alt="Profile Visitors">
 </p>
 
 <p align="center">
