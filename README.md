@@ -4,7 +4,7 @@
 <br>
 <br>
 <p>
-  <strong>A creative technologist translating complex data into intelligent, predictive, and impactful solutions.</strong>
+  <strong>A creative technologist interested in clouds and DevOps.</strong>
 </p>
 <br>
 
