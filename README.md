@@ -357,7 +357,7 @@ Draw a perfect circle. Real-time radial variance scoring, session high score tra
 
 | Certification | Issuer | Year | |
 |---|---|---|---|
-| IBM Certified DevOps, Agile & Design Thinking | IBM | 2025 | [![Verify](https://img.shields.io/badge/Verify-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.ibmcep.cognitiveclass.ai/certificates/f7c30adf2bc54dcc8f823d046399176a) |
+| IBM Certified DevOps, Agile & Design Thinking | IBM | 2025 | [![Verify](https://img.shields.io/badge/Verify-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.ibmcep.cognitiveclass.ai/certificates/87f1fc3bc2914c48bfed165510ae9045) |
 | IBM Certified Agile Methodologies | IBM | 2025 | [![Verify](https://img.shields.io/badge/Verify-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.ibmcep.cognitiveclass.ai/certificates/f926d0f8ce1b4cc398bb2717515c8836) |
 | IBM Certified DevOps Fundamentals | IBM | 2025 | [![Verify](https://img.shields.io/badge/Verify-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://courses.ibmcep.cognitiveclass.ai/certificates/f7c30adf2bc54dcc8f823d046399176a) |
 | Career Essentials in Software Development | Microsoft | 2024 | [![Verify](https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/3fea3e26296a1426dbc893d6b882af2e496b31090e7caeae25a18a710185ce1a) |
