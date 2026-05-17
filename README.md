@@ -263,7 +263,7 @@ Browser-based ROI modelling tool with pessimistic / realistic / optimistic scena
 - 60% / 100% / 150% scenario gain multipliers
 - Real-time chart re-renders on every input change
 
-[View repo →](https://github.com/anvitha1105/anvitha1105-Project-Impact-Visualizer---Real-time-ROI-profit-projections-)
+[View repo →](https://github.com/anvitha1105/anvitha1105-Project-Impact-Visualizer---Real-time-ROI-profit-projections)
 
 </td>
 </tr>
