@@ -14,7 +14,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anvitha1105.github.io/My-Portfolio/#hero)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/anvitha1105/Resume)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Kcuh69k6Bzf2HMtVaLHMoRxIBKX0brNj/view?usp=sharing)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvithanaguru@gmail.com)
 
@@ -93,6 +93,8 @@ Core Member — **Edu4U Club, VIT Bhopal** &nbsp;·&nbsp; University-level Techn
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 <br>
 
@@ -200,6 +202,42 @@ Production-ready blood bank system — donor registry, inventory, patient reques
 <br>
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Multilingual Automatic Speech Recognition (ASR)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Librosa](https://img.shields.io/badge/Librosa-3776AB?style=flat-square&logo=python&logoColor=white)
+
+*AI/ML Engineer* — Multilingual speech recognition system built with Wav2Vec2 and Hugging Face Transformers.
+
+- Fine-tuned transformer models, reducing Word Error Rate (WER) to 23% (down 18% from baseline)
+
+[View repo →](https://github.com/anvitha1105/multilingual-speech-recognition)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 ANVI – AI Personal Operating System
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+*AI Engineer* — AI-powered voice assistant backend with reminders, notes, currency conversion, and daily briefings.
+
+- Developed AI-powered backend modules for voice features using Python and the Gemini API
+- Integrated and tested Python APIs and WebSocket communication for reliable real-time voice interactions and backend connectivity
+
+[View demo →](https://drive.google.com/file/d/13Pmx7aomNQsiU9N5g75ddK4T8vjgnASQ/view)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
